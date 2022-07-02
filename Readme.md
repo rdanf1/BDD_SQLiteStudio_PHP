@@ -10,8 +10,9 @@ NB : auto-commit on gitHub (just as in GitHub 'Code' button)
 
 settings -> github -> manage remote -> 
 
-There are 2 parameter to fill with caution : 
-name    = origin
+These are the 2 parameters to be filled with caution :\
+
+name    = origin\
 ssh link = git@github.com:rdanf1/BDD_SQLiteStudio_PHP.git
 
 Ok ?!.. (0oh, don't -ever- ask for *MY* private key !)
