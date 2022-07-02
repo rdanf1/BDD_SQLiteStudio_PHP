@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=SQLiteStudio
+Comment=Sur leçon Studi BDD
+Exec=/opt/SQLiteStudio/sqlitestudio
+Icon=application-sql
+Path=/opt/SQLiteStudio/
+Terminal=false
+StartupNotify=true
